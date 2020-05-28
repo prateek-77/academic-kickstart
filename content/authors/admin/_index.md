@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prateek Garg
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Vision Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: BITS, Pilani
+  url: "https://www.bits-pilani.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
